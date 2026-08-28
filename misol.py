@@ -1,4 +1,3 @@
 print("assalomu alaykum")
-meva = "olma"
-rang = "qizil"
-uy = "qasr"
+
+print(19 - 5)
