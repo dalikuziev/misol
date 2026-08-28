@@ -1,0 +1,5 @@
+meva = "olma"
+rang = "qizil"
+mashina = "cobalt"
+uy = "qasr"
+futbolchi = "messi"
